@@ -29,34 +29,34 @@ const NavBar = () => {
  ]
 
   return (
-    <div className="flex justify-between items-center w-full h-16 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-14 px-4 text-white bg-black fixed">
       <div>
         <h1 className="text-4xl font-signature ml-2">Mariano Ferrer</h1>
       </div>
 
       <ul className=" text-2xl  hidden md:flex">
       <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#home">Inicio</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#about">Sobre mi</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#portfolio">Portfolio</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#experience">Experiencia</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#contact">Contacto</a>
             </li>
