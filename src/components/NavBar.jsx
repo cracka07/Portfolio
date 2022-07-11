@@ -36,27 +36,27 @@ const NavBar = () => {
 
       <ul className=" text-2xl  hidden md:flex">
       <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-2xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#home">Inicio</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-2xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#about">Sobre mi</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-2xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#portfolio">Portfolio</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-2xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#experience">Experiencia</a>
             </li>
             <li
-            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-4xl text-gray-500 hover:scale-105 duration-500"
+            className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-2xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#contact">Contacto</a>
             </li>
