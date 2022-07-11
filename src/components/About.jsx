@@ -15,8 +15,9 @@ const About = () => {
                     </p>
             </div>
             <p className='text-xl mt-20'>
-                Soy una persona autodidacta con trabajo en equipo, con desarrollo
-                en la comunicación, escucha activa, la inteligencia emocional.
+                Soy una persona autodidacta con trabajo en equipo,  desarrollo
+                en la comunicación, escucha activa e inteligencia emocional. Además tengo conocimientos sobre
+                metodologías agiles SCRUM.
                 Estas capacidades las desarrollé a partir de un proyecto grupal titulado como
                 Food's Universe que pueden ver en la sección portfolio.
             </p>
