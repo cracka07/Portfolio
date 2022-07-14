@@ -35,7 +35,7 @@ const Portfolio = () => {
                             <a className=' hover:text-yellow-400  w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' href="https://proyecto-grupal-food-s-universe.vercel.app/" target="_blank">
                               Demo
                              </a>
-                             <a className= '  hover:text-yellow-400  w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' href="https://github.com/cracka07/Proyecto-Grupal-Food-s-Universe" target="_blank">
+                             <a className= 'hover:text-yellow-400  w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' href="https://github.com/cracka07/Proyecto-Grupal-Food-s-Universe" target="_blank">
                               Código
                              </a>
                              </div>   
