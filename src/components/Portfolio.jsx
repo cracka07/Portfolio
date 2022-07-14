@@ -46,6 +46,9 @@ const Portfolio = () => {
                               className='rounded-md duration-200 hover:scale-105'
                               />
                             <div className='flex items-center justify-center'>
+                            <a className='hover:text-yellow-400   w-1/2 px-8 py-3 m-4 duration-200 hover:scale-105' href="https://proyecto-individual-henry-countries.vercel.app/" target="_blank">
+                             Demo
+                             </a>
                              <a className='hover:text-yellow-400   w-1/2 px-8 py-3 m-4 duration-200 hover:scale-105' href="https://github.com/cracka07/Proyecto-Individual-Henry-Countries" target="_blank">
                               Código
                              </a>
