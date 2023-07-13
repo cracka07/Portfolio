@@ -56,7 +56,7 @@ const SocialLink = () => {
                  C.V <BsPersonLinesFill size={30}/>
                 </>
             ),
-            href:"/CV-Mariano Ferrer.pdf",
+            href:"../../File/CV-Mariano Ferrer.pdf",
             style:"rounded-br-md",
             download:true
          
