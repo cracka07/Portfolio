@@ -1,5 +1,6 @@
 import React from 'react'
 import perfil from "./img/perfil.png"
+
 import { RiArrowRightSLine } from "react-icons/ri";
 
 const Home = () => {
@@ -11,17 +12,13 @@ const Home = () => {
         <div className=' max-w-screen-lg mx-auto flex flex-col
         items-center justify-center h-full px-4 md:flex-row'>
             <div className=' flex flex-col justify-center h-full'>
-                <h2 className=' text-2xl sm:text-5xl font-bold text-white'>Hola, soy Full Stack Developer</h2>
+                <h2 className='   sm:text-4xl font-bold text-white'>Hola, soy Full Stack Developer</h2>
            
             <p className='text-2xl text-gray-500 py-4 max-w-md text-xl'>
-                 Graduado de Henry.
-                 Formación en distintas tecnologías Front end y Back end.
-                 Experiencia comprobable en la capacidad de construir y diseñar proyectos basados en distintas temáticas.
-                 Gracias a esta experiencia, pude desarrollar varias soft skills.
-
-                 Tengo estudios realizados en la Universidad Tecnológica Nacional de Córdoba.
-                 
-                 
+            Soy un graduado de Henry especializado en desarrollo backend con Java con Spring Boot. 
+            Con sólidos conocimientos en tecnologías full stack, ofrezco experiencia
+            y pasión por crear soluciones robustas. Descubre cómo puedo potenciar tu equipo
+            y proyectos en mi portfolio y github.
             </p>
 
             <div>
@@ -37,8 +34,9 @@ const Home = () => {
             </div>
         </div>
         <div>
-            <img src={perfil} alt="mi foto de perfil"
-            className='  rounded-2xl mx-auto w-2/3 md:w-full'/>
+            
+            <img src={perfil} alt="mi foto de perfil" 
+            className=' rounded-2xl mx-auto w-60 first-letter:h-36  md:w-30'/>
         </div>
 
         </div>

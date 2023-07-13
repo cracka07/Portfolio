@@ -15,29 +15,27 @@ const About = () => {
                     </p>
             </div>
             <p className='text-xl mt-20'>
-                Soy una persona autodidacta con trabajo en equipo,  desarrollo
-                en la comunicación, escucha activa e inteligencia emocional. Además tengo conocimientos sobre
-                metodologías agiles SCRUM.
-                Estas capacidades las desarrollé a partir de un proyecto grupal titulado como
-                Food's Universe que pueden ver en la sección portfolio.
+                Soy un apasionado desarrollador con una base sólida en tecnología.
+                Comencé mis estudios en Ingeniería en Sistemas de Información en 2009 y,
+                después de adquirir tres años de conocimientos, decidí tomar un enfoque más
+                práctico para mi crecimiento profesional. Fue  entonces cuando surgió la oportunidad
+                de unirme a Henry,una experiencia que me atrajo inmediatamente.
             </p>
             <br/>
             <p className='text-xl'>
-                Tengo muchas ganas de seguir trabajando y ampliando mis conocimientos cuyo objetivo 
-                es que la empresa crezca gracias a mis aportes haciendo que mis tareas sean productivas y eficaces.
-
-            </p>
-            <br/>
-            <p className='text-xl'>
-                ¿Porqué estudiar programación?
+                Me gradúe en Henry en 2022, obteniendo habilidades en desarrollo web full stack.
+                Durante los proyectos que realicé en Henry, me han ayudado a desarrollar mis capacidades de
+                ser autodidacta, de trabajar en equipo, de tomar una actitud positiva y proactiva.
+                Desde entonces, me especialicé en el desarrollo backend con Java y he seguido comprometido
+                con mi crecimiento profesional y me mantengo actualizado en las últimas tecnologías.
                 
-                Me inicié en este mundo, en el año 2009 ingresando a estudiar la carrera de ingeniería en sistemas
-                en la Universidad Tecnológica Nacional, cuyo avance fue hasta tercer año completo.
-                El motivo principal por la cual me inicié en el mundo de la programación fue;  cada vez se van a solicitar más programadores en el mercado laboral.
-                Luego con el transcurso del tiempo, me fue interesando otros aspectos asi cómo el poder solucionar problemas en términos de poder ser yo quien le de instrucciones 
-                a la máquina y que la misma responda según mi código en este caso.
-                De esa forma fui desarrollando la capacidad del pensamiento lógico.
-            
+            </p>
+            <br/>
+            <p className='text-xl'>
+                Mi enfoque radica en construir soluciones y mi experiencia previa en Ingeniería en Sistemas de Información
+                me brinda una base sólida para comprender los desafios técnicos y empresariales.
+                Estoy emocionado de continuar desarrollándome y aportar mi experiencia y pasión al éxito de
+                su equipo y proyecto.
 
             </p>
         </div>

@@ -22,10 +22,7 @@ const NavBar = () => {
         id:4,
         link:"Experiencia"
     },
-    {
-        id:5,
-        link:"Contacto"
-    },
+   
  ]
 
   return (
@@ -55,11 +52,11 @@ const NavBar = () => {
           >
             <a href="#experience">Experiencia</a>
             </li>
-            <li
+            {/* <li
             className="  hover:text-yellow-400 px-4 cursor-pointer capitalize text-2xl text-gray-500 hover:scale-105 duration-500"
           >
             <a href="#contact">Contacto</a>
-            </li>
+            </li> */}
             
       </ul>
       {/* <ul className=" text-2xl  hidden md:flex">
